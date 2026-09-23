@@ -22,7 +22,7 @@ add_subdirectory(third_party/glfw)
 add_subdirectory(third_party/glad)
 add_subdirectory(third_party/cglm)
 
-target_include_directories(${LIBRARY} PUBLIC include/GLModules)
+target_include_directories(${LIBRARY} PUBLIC include)
 target_link_libraries(${LIBRARY} PUBLIC 
   OpenGL::GL
   freetype
