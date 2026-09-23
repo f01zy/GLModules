@@ -3,9 +3,9 @@
 #include <stddef.h>
 #include <stdio.h>
 
-#include "utility.h"
+#include "GLModules/utility.h"
 
-size_t get_opengl_type_size(GLenum type) {
+size_t utility_get_opengl_type_size(GLenum type) {
   switch (type) {
   case GL_FLOAT:
     return sizeof(GLfloat);
@@ -28,7 +28,7 @@ size_t get_opengl_type_size(GLenum type) {
   }
 }
 
-bool read_file(const char *path, char *buf, size_t size) {
+bool utility_read_file(const char *path, char *buf, size_t size) {
   FILE *file = fopen(path, "r");
   if (!file) return false;
   buf[fread(buf, sizeof(char), size - 1, file)] = '\0';

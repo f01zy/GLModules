@@ -3,10 +3,10 @@
 #include <math.h>
 #include <string.h>
 
-#include "defines.h"
-#include "mesh.h"
-#include "shader.h"
-#include "sphere.h"
+#include "GLModules/defines.h"
+#include "GLModules/mesh.h"
+#include "GLModules/shader.h"
+#include "GLModules/sphere.h"
 
 void sphere_data_initialize(SphereData *data, int sectors, int stacks) {
   memset(data, 0, sizeof(*data));

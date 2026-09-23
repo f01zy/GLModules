@@ -1,43 +1,43 @@
 [
 {
   "directory": "/home/f01zy/Programming/GLModules/build",
-  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/camera.c.o -c /home/f01zy/Programming/GLModules/src/camera.c",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/camera.c.o -c /home/f01zy/Programming/GLModules/src/camera.c",
   "file": "/home/f01zy/Programming/GLModules/src/camera.c",
   "output": "CMakeFiles/GLModules.dir/src/camera.c.o"
 },
 {
   "directory": "/home/f01zy/Programming/GLModules/build",
-  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/mesh.c.o -c /home/f01zy/Programming/GLModules/src/mesh.c",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/mesh.c.o -c /home/f01zy/Programming/GLModules/src/mesh.c",
   "file": "/home/f01zy/Programming/GLModules/src/mesh.c",
   "output": "CMakeFiles/GLModules.dir/src/mesh.c.o"
 },
 {
   "directory": "/home/f01zy/Programming/GLModules/build",
-  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/shader.c.o -c /home/f01zy/Programming/GLModules/src/shader.c",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/shader.c.o -c /home/f01zy/Programming/GLModules/src/shader.c",
   "file": "/home/f01zy/Programming/GLModules/src/shader.c",
   "output": "CMakeFiles/GLModules.dir/src/shader.c.o"
 },
 {
   "directory": "/home/f01zy/Programming/GLModules/build",
-  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/sphere.c.o -c /home/f01zy/Programming/GLModules/src/sphere.c",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/sphere.c.o -c /home/f01zy/Programming/GLModules/src/sphere.c",
   "file": "/home/f01zy/Programming/GLModules/src/sphere.c",
   "output": "CMakeFiles/GLModules.dir/src/sphere.c.o"
 },
 {
   "directory": "/home/f01zy/Programming/GLModules/build",
-  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/text.c.o -c /home/f01zy/Programming/GLModules/src/text.c",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/text.c.o -c /home/f01zy/Programming/GLModules/src/text.c",
   "file": "/home/f01zy/Programming/GLModules/src/text.c",
   "output": "CMakeFiles/GLModules.dir/src/text.c.o"
 },
 {
   "directory": "/home/f01zy/Programming/GLModules/build",
-  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/utility.c.o -c /home/f01zy/Programming/GLModules/src/utility.c",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/utility.c.o -c /home/f01zy/Programming/GLModules/src/utility.c",
   "file": "/home/f01zy/Programming/GLModules/src/utility.c",
   "output": "CMakeFiles/GLModules.dir/src/utility.c.o"
 },
 {
   "directory": "/home/f01zy/Programming/GLModules/build",
-  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/window.c.o -c /home/f01zy/Programming/GLModules/src/window.c",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/window.c.o -c /home/f01zy/Programming/GLModules/src/window.c",
   "file": "/home/f01zy/Programming/GLModules/src/window.c",
   "output": "CMakeFiles/GLModules.dir/src/window.c.o"
 },

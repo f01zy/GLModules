@@ -3,7 +3,7 @@
 #include <GLFW/glfw3.h>
 #include <stdio.h>
 
-#include "window.h"
+#include "GLModules/window.h"
 
 GLFWwindow *window_create(int width, int height, const char *title) {
   if (!glfwInit()) {

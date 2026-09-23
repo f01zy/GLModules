@@ -2,9 +2,9 @@
 #include <glad/gl.h>
 #include <stdint.h>
 
-#include "defines.h"
-#include "shader.h"
-#include "utility.h"
+#include "GLModules/defines.h"
+#include "GLModules/shader.h"
+#include "GLModules/utility.h"
 
 uint32_t create_shader(uint32_t shader_program, GLenum type, const char *path) {
   char buf[8192], info[512];

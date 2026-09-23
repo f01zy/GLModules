@@ -1,8 +1,8 @@
 #include <glad/gl.h>
 #include <stddef.h>
 
-#include "mesh.h"
-#include "utility.h"
+#include "GLModules/mesh.h"
+#include "GLModules/utility.h"
 
 bool mesh_initialize(Mesh *mesh, const float *vertices, size_t vertices_len, const ivec3 *indices, size_t indices_len, const Attribute *attributes,
                      size_t attributes_len, GLenum render_mode) {

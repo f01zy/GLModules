@@ -3,9 +3,9 @@
 #include <stdbool.h>
 #include <stdint.h>
 
-#include "mesh.h"
-#include "shader.h"
-#include "text.h"
+#include "GLModules/mesh.h"
+#include "GLModules/shader.h"
+#include "GLModules/text.h"
 
 bool font_initialize(Font *font, const char *path, int size) {
   FT_Library ft;

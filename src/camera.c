@@ -1,8 +1,8 @@
 #include <cglm/cglm.h>
 #include <math.h>
 
-#include "camera.h"
-#include "defines.h"
+#include "GLModules/camera.h"
+#include "GLModules/defines.h"
 
 float last_mouse_x = 0.0f;
 float last_mouse_y = 0.0f;
