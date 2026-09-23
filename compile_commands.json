@@ -1,0 +1,740 @@
+[
+{
+  "directory": "/home/f01zy/Programming/GLModules/build",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/camera.c.o -c /home/f01zy/Programming/GLModules/src/camera.c",
+  "file": "/home/f01zy/Programming/GLModules/src/camera.c",
+  "output": "CMakeFiles/GLModules.dir/src/camera.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/mesh.c.o -c /home/f01zy/Programming/GLModules/src/mesh.c",
+  "file": "/home/f01zy/Programming/GLModules/src/mesh.c",
+  "output": "CMakeFiles/GLModules.dir/src/mesh.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/shader.c.o -c /home/f01zy/Programming/GLModules/src/shader.c",
+  "file": "/home/f01zy/Programming/GLModules/src/shader.c",
+  "output": "CMakeFiles/GLModules.dir/src/shader.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/sphere.c.o -c /home/f01zy/Programming/GLModules/src/sphere.c",
+  "file": "/home/f01zy/Programming/GLModules/src/sphere.c",
+  "output": "CMakeFiles/GLModules.dir/src/sphere.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/text.c.o -c /home/f01zy/Programming/GLModules/src/text.c",
+  "file": "/home/f01zy/Programming/GLModules/src/text.c",
+  "output": "CMakeFiles/GLModules.dir/src/text.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/utility.c.o -c /home/f01zy/Programming/GLModules/src/utility.c",
+  "file": "/home/f01zy/Programming/GLModules/src/utility.c",
+  "output": "CMakeFiles/GLModules.dir/src/utility.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/include/GLModules -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/GLModules.dir/src/window.c.o -c /home/f01zy/Programming/GLModules/src/window.c",
+  "file": "/home/f01zy/Programming/GLModules/src/window.c",
+  "output": "CMakeFiles/GLModules.dir/src/window.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/autofit/autofit.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/autofit/autofit.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/autofit/autofit.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/autofit/autofit.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbase.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftbase.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftbase.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftbase.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbbox.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftbbox.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftbbox.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftbbox.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbdf.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftbdf.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftbdf.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftbdf.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbitmap.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftbitmap.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftbitmap.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftbitmap.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftcid.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftcid.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftcid.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftcid.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftfstype.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftfstype.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftfstype.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftfstype.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftgasp.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftgasp.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftgasp.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftgasp.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftglyph.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftglyph.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftglyph.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftglyph.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftgxval.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftgxval.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftgxval.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftgxval.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftinit.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftinit.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftinit.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftinit.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftmm.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftmm.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftmm.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftmm.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftotval.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftotval.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftotval.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftotval.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftpatent.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftpatent.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftpatent.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftpatent.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftpfr.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftpfr.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftpfr.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftpfr.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftstroke.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftstroke.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftstroke.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftstroke.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftsynth.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftsynth.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftsynth.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftsynth.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/fttype1.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/fttype1.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/fttype1.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/fttype1.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftwinfnt.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftwinfnt.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/bdf/bdf.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/bdf/bdf.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/bdf/bdf.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/bdf/bdf.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/bzip2/ftbzip2.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/bzip2/ftbzip2.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cache/ftcache.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/cache/ftcache.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/cache/ftcache.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/cache/ftcache.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cff/cff.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/cff/cff.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/cff/cff.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/cff/cff.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cid/type1cid.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/cid/type1cid.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/cid/type1cid.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/cid/type1cid.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/gzip/ftgzip.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/gzip/ftgzip.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/hvf/hvf.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/hvf/hvf.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/hvf/hvf.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/hvf/hvf.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/lzw/ftlzw.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/lzw/ftlzw.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pcf/pcf.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/pcf/pcf.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/pcf/pcf.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/pcf/pcf.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pfr/pfr.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/pfr/pfr.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/pfr/pfr.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/pfr/pfr.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/psaux/psaux.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/psaux/psaux.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/psaux/psaux.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/psaux/psaux.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/pshinter/pshinter.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/pshinter/pshinter.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/psnames/psnames.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/psnames/psnames.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/psnames/psnames.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/psnames/psnames.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/raster/raster.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/raster/raster.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/raster/raster.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/raster/raster.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/sdf/sdf.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/sdf/sdf.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/sdf/sdf.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/sdf/sdf.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/sfnt/sfnt.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/sfnt/sfnt.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/smooth/smooth.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/smooth/smooth.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/smooth/smooth.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/smooth/smooth.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/svg/svg.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/svg/svg.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/svg/svg.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/svg/svg.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/truetype/truetype.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/truetype/truetype.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/truetype/truetype.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/truetype/truetype.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/type1/type1.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/type1/type1.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/type1/type1.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/type1/type1.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/type42/type42.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/type42/type42.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/type42/type42.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/type42/type42.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/winfonts/winfnt.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/winfonts/winfnt.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/builds/unix/ftsystem.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/builds/unix/ftsystem.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/freetype",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DFT2_BUILD_LIBRARY -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include -I/home/f01zy/Programming/GLModules/third_party/freetype/include -I/home/f01zy/Programming/GLModules/build/third_party/freetype/include/freetype/config -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftdebug.c.o -c /home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftdebug.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/freetype/src/base/ftdebug.c",
+  "output": "third_party/freetype/CMakeFiles/freetype.dir/src/base/ftdebug.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/context.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/context.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/context.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/init.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/init.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/init.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/input.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/input.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/input.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/monitor.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/monitor.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/platform.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/platform.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/platform.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/vulkan.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/vulkan.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/window.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/window.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/window.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/egl_context.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/egl_context.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/osmesa_context.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/osmesa_context.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_init.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/null_init.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/null_init.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_monitor.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/null_monitor.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/null_monitor.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_window.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/null_window.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/null_window.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/null_joystick.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/null_joystick.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/null_joystick.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_module.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/posix_module.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/posix_module.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_time.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/posix_time.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/posix_time.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/posix_time.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/posix_thread.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/posix_thread.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_init.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/x11_init.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/x11_init.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/x11_init.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/x11_monitor.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/x11_monitor.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/x11_monitor.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/x11_window.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/x11_window.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/x11_window.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/x11_window.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/xkb_unicode.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/xkb_unicode.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/xkb_unicode.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/glx_context.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/glx_context.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/glx_context.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/glx_context.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_init.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/wl_init.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/wl_init.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/wl_init.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_monitor.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/wl_monitor.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/wl_monitor.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/wl_monitor.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/wl_window.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/wl_window.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/wl_window.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/wl_window.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/linux_joystick.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/linux_joystick.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/linux_joystick.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glfw/src",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DHAVE_MEMFD_CREATE -D_DEFAULT_SOURCE -D_GLFW_WAYLAND -D_GLFW_X11 -I/home/f01zy/Programming/GLModules/third_party/glfw/include -I/home/f01zy/Programming/GLModules/third_party/glfw/src -I/home/f01zy/Programming/GLModules/build/third_party/glfw/src -std=c99 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_poll.c.o -c /home/f01zy/Programming/GLModules/third_party/glfw/src/posix_poll.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glfw/src/posix_poll.c",
+  "output": "third_party/glfw/src/CMakeFiles/glfw.dir/posix_poll.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/glad",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc  -I/home/f01zy/Programming/GLModules/third_party/glad/include  -o CMakeFiles/glad.dir/src/gl.c.o -c /home/f01zy/Programming/GLModules/third_party/glad/src/gl.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/glad/src/gl.c",
+  "output": "third_party/glad/CMakeFiles/glad.dir/src/gl.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/euler.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/euler.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/euler.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/euler.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/affine.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/affine.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/affine.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/affine.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/io.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/io.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/io.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/io.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/quat.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/quat.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/quat.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/quat.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/cam.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/cam.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/cam.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/cam.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/vec2.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/vec2.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/vec2.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/vec2.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/ivec2.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/ivec2.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/ivec2.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/ivec2.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/vec3.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/vec3.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/vec3.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/vec3.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/ivec3.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/ivec3.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/ivec3.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/ivec3.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/vec4.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/vec4.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/vec4.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/vec4.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/ivec4.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/ivec4.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/ivec4.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/ivec4.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat2.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat2.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat2.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat2.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat2x3.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat2x3.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat2x3.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat2x3.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat2x4.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat2x4.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat2x4.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat2x4.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat3.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat3.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat3.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat3.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat3x2.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat3x2.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat3x2.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat3x2.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat3x4.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat3x4.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat3x4.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat3x4.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat4.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat4.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat4.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat4.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat4x2.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat4x2.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat4x2.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat4x2.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/mat4x3.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/mat4x3.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/mat4x3.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/mat4x3.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/plane.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/plane.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/plane.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/plane.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/noise.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/noise.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/noise.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/noise.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/frustum.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/frustum.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/frustum.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/frustum.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/box.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/box.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/box.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/box.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/aabb2d.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/aabb2d.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/aabb2d.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/aabb2d.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/project.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/project.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/project.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/project.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/sphere.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/sphere.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/sphere.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/sphere.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/ease.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/ease.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/ease.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/ease.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/curve.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/curve.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/curve.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/curve.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/bezier.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/bezier.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/bezier.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/bezier.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/ray.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/ray.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/ray.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/ray.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/affine2d.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/affine2d.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/affine2d.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/affine2d.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/ortho_lh_no.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/ortho_lh_no.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/ortho_lh_no.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/ortho_lh_no.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/ortho_lh_zo.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/ortho_lh_zo.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/ortho_lh_zo.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/ortho_lh_zo.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/ortho_rh_no.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/ortho_rh_no.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/ortho_rh_no.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/ortho_rh_no.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/ortho_rh_zo.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/ortho_rh_zo.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/ortho_rh_zo.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/ortho_rh_zo.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/persp_lh_no.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/persp_lh_no.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/persp_lh_no.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/persp_lh_no.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/persp_lh_zo.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/persp_lh_zo.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/persp_lh_zo.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/persp_lh_zo.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/persp_rh_no.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/persp_rh_no.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/persp_rh_no.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/persp_rh_no.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/persp_rh_zo.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/persp_rh_zo.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/persp_rh_zo.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/persp_rh_zo.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/view_lh_no.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/view_lh_no.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/view_lh_no.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/view_lh_no.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/view_lh_zo.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/view_lh_zo.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/view_lh_zo.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/view_lh_zo.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/view_rh_no.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/view_rh_no.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/view_rh_no.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/view_rh_no.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/view_rh_zo.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/view_rh_zo.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/view_rh_zo.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/view_rh_zo.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/project_no.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/project_no.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/project_no.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/project_no.c.o"
+},
+{
+  "directory": "/home/f01zy/Programming/GLModules/build/third_party/cglm",
+  "command": "/nix/store/788mx070y81zjlg5ipcl0cra3afviw9k-gcc-wrapper-15.2.0/bin/gcc -DCGLM_EXPORTS -Dcglm_EXPORTS -I/home/f01zy/Programming/GLModules/third_party/cglm/include -I/home/f01zy/Programming/GLModules/third_party/cglm/src -std=gnu11 -fPIC -Wall -Wextra -Wpedantic -Wconversion -O3 -o CMakeFiles/cglm.dir/src/clipspace/project_zo.c.o -c /home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/project_zo.c",
+  "file": "/home/f01zy/Programming/GLModules/third_party/cglm/src/clipspace/project_zo.c",
+  "output": "third_party/cglm/CMakeFiles/cglm.dir/src/clipspace/project_zo.c.o"
+}
+]
